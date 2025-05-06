@@ -12,7 +12,7 @@ enableForwardedWhitelist: false
 whitelist:
   - ::1
   - 127.0.0.1
-basicAuthMode: false
+basicAuthMode: true
 basicAuthUser:
   username: user
   password: chimaltenango98
