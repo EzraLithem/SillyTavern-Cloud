@@ -15,7 +15,7 @@ whitelist:
 basicAuthMode: false
 basicAuthUser:
   username: user
-  password: password
+  password: chimaltenango98
 enableCorsProxy: false
 requestProxy:
   enabled: false
